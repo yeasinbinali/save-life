@@ -7,6 +7,9 @@ export default {
     'node_modules/preline/dist/*.js',
   ],
   theme: {
+    colors: {
+      main: '#cc1100'
+    },
     extend: {},
   },
   plugins: [
