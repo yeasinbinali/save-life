@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/tzz3zHG/download.png",
+        "headline": "Donate & Save Lives",
+        "description": "Join our community of life-savers by donating blood. Your contribution can help those in need and make a significant difference in their lives."
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/2d9g6C6/blood-donation-design-24877-47105.jpg",
+        "headline": "Find Drives Nearby",
+        "description": "Easily locate upcoming blood donation drives in your area. Sign up, show up, and help meet the urgent need for blood in local hospitals and clinics."
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/PMqKkS4/gradient-world-blood-donor-day-illustration-23-2148942431.jpg",
+        "headline": "Track Your Donations",
+        "description": "Create an account to track your donations, receive reminders for your next eligible donation, and stay updated on how your blood is making a difference in the world."
+    }
+]

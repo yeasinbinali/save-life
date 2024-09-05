@@ -7,7 +7,8 @@ export default {
   theme: {
     colors: {
       main: '#cc1100',
-      secondary: '#ffffff'
+      secondary: '#ffffff',
+      gradient: '#F5F5F1'
     },
     extend: {},
   },
